@@ -1,0 +1,6 @@
+{
+  "name": "SkillMaster Lab",
+  "description": "Dynamic adaptive Android Skill App with offline skills catalog, live code editor with standalone web browser preview, Gemini AI skill chatbot, and Gate 1 skill effectiveness masterizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
